@@ -7,4 +7,4 @@ Il est sans doute possible d'avoir un comportement plus logique au niveau des di
 
 Des améliorations peuvent etre apportées au niveau du code pour éviter de prendre en compte les rebonds du joystick.
 
-D'autre boutons peuvent etre ajoutés pour faire une commande plus complète
+D'autre boutons peuvent etre ajoutés pour faire une commande plus complète, il faudra alors determiner quelles touches seront nécessaires en fonctions des jeux voulus
